@@ -14,4 +14,4 @@
 # Sketch Engine 
 ### Задание 1.
 #### Word Sketch 
-![] (https://github.com/scryps/hw6/blob/master/4.PNG)
+![](https://github.com/scryps/hw6/blob/master/4.PNG)
