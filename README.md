@@ -18,4 +18,5 @@
 ### Задание 2. 
 #### Sketch diff (BNC)
 ![](https://github.com/scryps/hw6/blob/master/5.PNG)
-Слова *calm, day, faithful, friend, today*, выполняющие роль дополнения в предложении (object), могут употребляться с двумя глаголами (stay, remain). Слово *course* только с глаголом *stay*, а *source* только с remain.
+#### 
+Слова *calm, day, faithful, friend, today*, выполняющие роль дополнения в предложении (object), могут употребляться с двумя глаголами (stay, remain). Слово *course* только с глаголом *__stay__*, а *source* только с *__remain__*.
